@@ -1,0 +1,11 @@
+Step 1:
+First of all create a new python environment so it doean not interrupt your machine's python version 
+
+For this write virtualenv env in terminal and run .it create new env 
+
+This environment is called virtual environment
+
+Now to activate this virtual environment write this code in powershell
+.\env\Scripts\activate
+
+-->Static folder contains files which we want to use as it is means if we make one file in static and go to the 127.0.0.8000/static/filename then we can seen the content of that file
